@@ -1,4 +1,4 @@
-sudonimo: Fade in.
+sudonimo, 1: Fade in.
 
 me, 2: This bitch had the nerve to give me a Michael Kors bag.
 me, 3: Do I look like a pleb?
