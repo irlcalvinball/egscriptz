@@ -1,4 +1,5 @@
 [workspace]
+exclude = ["src/*"]
 
 [package]
 name = "fancy-example"
