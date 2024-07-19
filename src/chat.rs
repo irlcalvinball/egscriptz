@@ -171,7 +171,7 @@ impl ChatExample {
             self.msgs_received += 1;
         });
 
-        let title = "Michael Kors";
+        let title = "Chat";
         demo_area(ui, title, 500.0, |ui| {
             ScrollArea::vertical()
                 .animated(false)
