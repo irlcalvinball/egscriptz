@@ -1,3 +1,5 @@
+[workspace]
+
 [package]
 name = "fancy-example"
 version = "0.1.0"
